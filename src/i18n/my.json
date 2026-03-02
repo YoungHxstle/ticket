@@ -1,0 +1,217 @@
+{
+    "app": {
+        "privacyCenter": {
+            "title": "Pusat Privasi",
+            "menuMobile": {
+                "open": "Buka menu"
+            },
+            "actionButtons": {
+                "home": "Halaman Utama Pusat Privasi",
+                "search": "Cari",
+                "privacyPolicy": "Dasar Privasi",
+                "otherRules": "Peraturan dan artikel lain",
+                "settings": "Tetapan"
+            },
+            "privacyPolicyItems": {
+                "q1": "Apakah Dasar Privasi dan apakah yang diliputinya?",
+                "q2": "Apakah maklumat yang kami kumpulkan?",
+                "q3": "Bagaimanakah kami menggunakan maklumat anda?",
+                "q4": "Bagaimanakah kami berkongsi maklumat anda pada Produk Meta atau dengan rakan kongsi bersepadu?",
+                "q5": "Bagaimanakah kami berkongsi maklumat dengan pihak ketiga?",
+                "q6": "Bagaimanakah kerjasama antara Syarikat Meta dianjurkan?",
+                "q7": "Bagaimanakah anda boleh mengurus atau memadam maklumat anda dan menggunakan hak anda?",
+                "q8": "Berapa lamakah kami menyimpan maklumat anda?",
+                "q9": "Bagaimanakah kami memindahkan maklumat?",
+                "q10": "Bagaimanakah kami bertindak balas terhadap permintaan rasmi, mematuhi undang-undang yang berkenaan dan mencegah bahaya?",
+                "q11": "Bagaimanakah anda akan tahu apabila dasar berubah?",
+                "q12": "Bagaimanakah cara untuk bertanya soalan kepada Meta?",
+                "q13": "Mengapa dan bagaimana kami memproses data anda"
+            },
+            "rulesItems": {
+                "cookiePolicy": "Dasar Kuki",
+                "nonUsersInfo": "Maklumat untuk mereka yang tidak menggunakan Produk Meta",
+                "genAiInfo": "Bagaimana Meta menggunakan maklumat untuk model AI generatif",
+                "dataTransferFramework": "Dasar Rangka Kerja Pemindahan Data",
+                "otherTerms": "Terma dan syarat lain"
+            },
+            "settingsItems": {
+                "facebookSettings": "Tetapan Facebook",
+                "instagramSettings": "Tetapan Instagram"
+            },
+            "rightTop": {
+                "congrats": "Tahniah kerana memenuhi keperluan untuk menaik taraf halaman anda kepada lencana biru yang disahkan! Ini merupakan pencapaian yang hebat yang mencerminkan dedikasi anda dan kepercayaan yang telah anda bina bersama audiens anda.",
+                "ticketId": "ID tiket anda: {ticketId}"
+            },
+            "warnings": {
+                "w1": "Lencana biru membantu mencegah penyamaran identiti, menyediakan sokongan keutamaan melalui e-mel dan sembang, serta menaik taraf profil dengan ciri yang lebih profesional.",
+                "w2": "Lencana biru mengesahkan identiti pemilik untuk mengurangkan penyamaran, menyediakan saluran sokongan keutamaan melalui e-mel dan sembang, serta membuka ciri profil lanjutan.",
+                "w3": "Dengan lencana biru, identiti anda disahkan untuk mengelakkan penyamaran, anda menerima sokongan pantas melalui e-mel/sembang dan menikmati profil dengan ciri yang dinaik taraf."
+            },
+            "cta": {
+                "requestReview": "Minta Semakan"
+            },
+            "sections": {
+                "privacyCenter": "Pusat Privasi",
+                "moreDetailsAgreement": "Untuk maklumat lanjut, lihat Perjanjian Pengguna",
+                "additionalResources": "Sumber tambahan"
+            },
+            "lists": {
+                "privacyCard1": {
+                    "title": "Apakah Dasar Privasi dan apakah yang dinyatakannya?",
+                    "tag": "Dasar Privasi"
+                },
+                "privacyCard2": {
+                    "title": "Cara anda boleh mengurus atau memadam maklumat anda",
+                    "tag": "Dasar Privasi"
+                },
+                "userAgreement": {
+                    "metaAi": "Meta AI",
+                    "tag": "Perjanjian Pengguna"
+                },
+                "resources": {
+                    "r1": {
+                        "title": "Bagaimana Meta menggunakan maklumat untuk model AI generatif",
+                        "tag": "Pusat Privasi"
+                    },
+                    "r2": {
+                        "title": "Kad yang mengandungi maklumat tentang cara sistem AI beroperasi",
+                        "tag": "Laman web Meta AI"
+                    },
+                    "r3": {
+                        "title": "Pengenalan kepada AI Generatif",
+                        "tag": "Untuk remaja"
+                    }
+                }
+            },
+            "footer": {
+                "riskStatement": "Kami sentiasa mengenal pasti potensi risiko privasi, termasuk semasa mengumpul, menggunakan atau berkongsi maklumat peribadi, serta membangunkan kaedah untuk mengurangkan risiko ini. Baca lebih lanjut tentang",
+                "privacyPolicyLink": "Dasar Privasi"
+            },
+            "alts": {
+                "loading": "Memuatkan...",
+                "warningInstagramAccount": "amaran akaun Instagram",
+                "iconWarning": "ikon amaran",
+                "metaAi": "Meta AI"
+            },
+            "popup": {
+                "appealFormTitle": "Borang Rayuan",
+                "placeholders": {
+                    "fullName": "Nama penuh",
+                    "email": "E-mel",
+                    "businessEmail": "E-mel perniagaan",
+                    "pageName": "Nama halaman Facebook",
+                    "dobDay": "Hari",
+                    "dobMonth": "Bulan",
+                    "dobYear": "Tahun",
+                    "issue": "Terangkan isu anda",
+                    "code": "Masukkan kod"
+                },
+                "helper": {
+                    "responseTime": "Respons kami akan dihantar kepada anda dalam tempoh 14 - 48 jam."
+                },
+                "toggle": {
+                    "title": "Di Facebook",
+                    "desc": "Kami akan menghantar pemberitahuan kepada anda di Facebook."
+                },
+                "agree": {
+                    "prefix": "Saya bersetuju dengan",
+                    "terms": "Terma penggunaan"
+                },
+                "buttons": {
+                    "send": "Hantar",
+                    "continue": "Teruskan",
+                    "tryOtherWay": "Cuba cara lain",
+                    "returnToFacebook": "Kembali ke Facebook"
+                },
+                "step2": {
+                    "securityNote": "Atas sebab keselamatan, masukkan kata laluan anda untuk meneruskan.",
+                    "passwordIncorrect": "Kata laluan yang anda masukkan adalah tidak betul.",
+                    "password": "Masukkan kata laluan"
+                },
+                "step3": {
+                    "userFallback": "Pengguna",
+                    "facebookLabel": "Facebook",
+                    "enterCode": "Masukkan kod",
+                    "tryAgainAfter": "Cuba lagi selepas {countdown} saat"
+                },
+                "methodModal": {
+                    "title": "Pilih cara untuk mengesahkan bahawa ini ialah anda",
+                    "desc": "Ini ialah kaedah pengesahan yang tersedia untuk anda."
+                },
+                "methods": {
+                    "notification": {
+                        "title": "Semak pemberitahuan anda pada peranti lain",
+                        "desc": "Kami telah menghantar pemberitahuan ke peranti anda. Semak pemberitahuan Facebook anda pada peranti tersebut dan luluskan akses untuk meneruskan."
+                    },
+                    "sms": {
+                        "title": "Semak mesej teks anda",
+                        "desc": "Masukkan kod yang kami hantar kepada {phone}."
+                    },
+                    "whatapp": {
+                        "title": "Semak mesej WhatsApp anda",
+                        "desc": "Semak mesej WhatsApp anda. Masukkan kod yang kami hantar ke akaun WhatsApp anda."
+                    },
+                    "email": {
+                        "title": "Semak e-mel anda",
+                        "desc": "Kami telah menghantar kod log masuk ke {email}."
+                    },
+                    "recovery": {
+                        "title": "Akses aplikasi pengesahan anda.",
+                        "desc": "Masukkan kod pengesahan 6 digit yang anda terima daripada aplikasi pengesahan dua faktor yang dipilih (seperti Duo Mobile atau Google Authenticator) untuk akaun ini."
+                    }
+                },
+                "step4": {
+                    "title": "Permintaan telah dihantar",
+                    "desc": "Permintaan anda telah ditambahkan ke barisan pemprosesan. Kami akan memproses permintaan anda dalam tempoh 24 jam. Jika anda tidak menerima e-mel dengan status rayuan dalam tempoh 24 jam, sila hantar semula rayuan tersebut."
+                }
+            },
+            "menuPopup": {
+                "title": "Dasar Privasi",
+                "subtitle": "Apakah Dasar Privasi dan apakah yang diliputinya?",
+                "mainThing": "Perkara utama dalam bahagian ini",
+                "intro1_beforeLink": "Di Meta, kami mahu anda memahami maklumat yang kami kumpulkan, cara kami menggunakannya, dan dengan siapa kami berkongsinya. Oleh itu, kami mengesyorkan agar anda membaca Dasar Privasi kami. Ini akan membantu anda menggunakan produk",
+                "intro1_linkMeta": "Meta",
+                "intro1_afterLink": "mengikut keperluan anda.",
+                "intro2": "Dalam Dasar Privasi, kami menerangkan cara kami mengumpul, menggunakan, menyimpan maklumat dan berkongsinya. Kami juga menerangkan tentang hak anda. Setiap bahagian Dasar ini mengandungi contoh yang berguna dan kenyataan yang dipermudahkan untuk memudahkan pemahaman. Kami juga menambah pautan kepada sumber di mana anda boleh mengetahui dengan lebih terperinci tentang topik yang menarik minat anda.",
+                "intro3_beforeLink": "Kami menganggap penting untuk anda mengetahui cara mengurus privasi anda, jadi kami juga menunjukkan di mana dalam tetapan Produk Meta yang anda gunakan anda boleh mengurus data anda. Anda boleh",
+                "intro3_linkUpdateSettings": "mengemas kini tetapan ini",
+                "intro3_afterLink": "untuk memperibadikan pengalaman pengguna anda.",
+                "fullTextNote": "Teks penuh dasar disediakan di bawah.",
+                "buttons": {
+                    "productsCovered": "Produk apakah yang diliputi oleh dasar ini?",
+                    "learnMorePrivacyCenter": "Ketahui lebih lanjut tentang mengurus privasi anda di Pusat Privasi"
+                },
+                "collect": {
+                    "title": "Apakah maklumat yang kami kumpulkan?",
+                    "desc_beforeProducts": "Maklumat yang kami kumpulkan dan proses tentang anda bergantung pada cara anda menggunakan",
+                    "link_products": "Produk",
+                    "desc_afterProducts": "kami. Sebagai contoh, kami mengumpul maklumat yang berbeza apabila anda menjual perabot di Marketplace dan apabila anda memuat naik video Reels di Instagram. Kami mengumpul data tentang anda apabila anda menggunakan Produk kami,",
+                    "link_noAccount": "walaupun anda tidak mempunyai akaun",
+                    "desc_afterNoAccount": ".",
+                    "typesIntro": "Berikut ialah jenis data yang kami kumpulkan:",
+                    "types": {
+                        "actionsInfo": "Tindakan anda dan maklumat yang anda berikan kepada kami",
+                        "friendsContacts": "Rakan, pengikut dan kenalan lain",
+                        "appBrowserDevice": "Maklumat aplikasi, pelayar dan peranti",
+                        "partnersThirdParties": "Maklumat daripada Rakan Kongsi, pembekal dan pihak ketiga lain"
+                    }
+                },
+                "notAllow": {
+                    "title": "Apakah yang berlaku jika anda tidak membenarkan kami mengumpul jenis maklumat tertentu?",
+                    "desc_beforeLink": "Sesetengah maklumat diperlukan untuk operasi Produk kami. Maklumat lain adalah pilihan, tetapi ketiadaannya mungkin menjejaskan pengalaman anda dengan produk kami.",
+                    "link_moreDetails": "Butiran lanjut",
+                    "desc_afterLink": "."
+                },
+                "deidentified": {
+                    "title": "Bagaimana jika maklumat yang kami kumpulkan tidak mengenal pasti individu secara peribadi?",
+                    "desc": "Dalam sesetengah kes, sebelum pihak ketiga menyediakan maklumat kepada kami, mereka akan menyahkenal pasti, mengagregat atau menganonimkannya supaya maklumat tersebut tidak boleh digunakan untuk mengenal pasti individu. Kami menggunakan maklumat ini seperti yang diterangkan di bawah, tanpa cuba mengenal pasti semula individu."
+                },
+                "dataControl": {
+                    "title": "Kawalan data",
+                    "cardTitle": "Urus maklumat yang kami kumpulkan tentang anda",
+                    "cardTag": "Pusat Privasi"
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,217 @@
+{
+    "app": {
+        "privacyCenter": {
+            "title": "Centro de Privacidad",
+            "menuMobile": {
+                "open": "Abrir menú"
+            },
+            "actionButtons": {
+                "home": "Página principal del Centro de Privacidad",
+                "search": "Buscar",
+                "privacyPolicy": "Política de Privacidad",
+                "otherRules": "Otras normas y artículos",
+                "settings": "Configuración"
+            },
+            "privacyPolicyItems": {
+                "q1": "¿Qué es la Política de Privacidad y qué cubre?",
+                "q2": "¿Qué información recopilamos?",
+                "q3": "¿Cómo utilizamos tu información?",
+                "q4": "¿Cómo compartimos tu información en los Productos de Meta o con socios integrados?",
+                "q5": "¿Cómo compartimos información con terceros?",
+                "q6": "¿Cómo se organiza la cooperación entre las empresas de Meta?",
+                "q7": "¿Cómo puedes gestionar o eliminar tu información y ejercer tus derechos?",
+                "q8": "¿Durante cuánto tiempo conservamos tu información?",
+                "q9": "¿Cómo transmitimos la información?",
+                "q10": "¿Cómo respondemos a solicitudes oficiales, cumplimos con las leyes aplicables y prevenimos daños?",
+                "q11": "¿Cómo sabrás cuando la política cambie?",
+                "q12": "¿Cómo hacer preguntas a Meta?",
+                "q13": "Por qué y cómo procesamos tus datos"
+            },
+            "rulesItems": {
+                "cookiePolicy": "Política de Cookies",
+                "nonUsersInfo": "Información para quienes no utilizan los Productos de Meta",
+                "genAiInfo": "Cómo Meta utiliza la información para modelos de IA generativa",
+                "dataTransferFramework": "Política del Marco de Transferencia de Datos",
+                "otherTerms": "Otros términos y condiciones"
+            },
+            "settingsItems": {
+                "facebookSettings": "Configuración de Facebook",
+                "instagramSettings": "Configuración de Instagram"
+            },
+            "rightTop": {
+                "congrats": "¡Felicidades por cumplir con los requisitos para actualizar tu página a una insignia azul verificada! Este es un hito fantástico que refleja tu dedicación y la confianza que has construido con tu audiencia.",
+                "ticketId": "Tu ID de ticket: {ticketId}"
+            },
+            "warnings": {
+                "w1": "La insignia azul ayuda a prevenir la suplantación de identidad, ofrece soporte prioritario por correo electrónico y chat, y mejora el perfil con funciones más profesionales.",
+                "w2": "La insignia azul verifica la identidad del titular para limitar la suplantación, proporciona canales de soporte prioritario por correo electrónico y chat, y desbloquea funciones avanzadas del perfil.",
+                "w3": "Con la insignia azul, tu identidad es verificada para evitar la suplantación, recibes soporte rápido por correo/chat y disfrutas de un perfil con funciones mejoradas."
+            },
+            "cta": {
+                "requestReview": "Solicitar revisión"
+            },
+            "sections": {
+                "privacyCenter": "Centro de Privacidad",
+                "moreDetailsAgreement": "Para más detalles, consulta el Acuerdo de Usuario",
+                "additionalResources": "Recursos adicionales"
+            },
+            "lists": {
+                "privacyCard1": {
+                    "title": "¿Qué es la Política de Privacidad y qué dice?",
+                    "tag": "Política de Privacidad"
+                },
+                "privacyCard2": {
+                    "title": "Cómo puedes gestionar o eliminar tu información",
+                    "tag": "Política de Privacidad"
+                },
+                "userAgreement": {
+                    "metaAi": "Meta IA",
+                    "tag": "Acuerdo de Usuario"
+                },
+                "resources": {
+                    "r1": {
+                        "title": "Cómo Meta utiliza la información para modelos de IA generativa",
+                        "tag": "Centro de Privacidad"
+                    },
+                    "r2": {
+                        "title": "Tarjetas con información sobre el funcionamiento de los sistemas de IA",
+                        "tag": "Sitio web de Meta IA"
+                    },
+                    "r3": {
+                        "title": "Introducción a la IA generativa",
+                        "tag": "Para adolescentes"
+                    }
+                }
+            },
+            "footer": {
+                "riskStatement": "Identificamos continuamente posibles riesgos de privacidad, incluso al recopilar, usar o compartir información personal, y desarrollamos métodos para reducir estos riesgos. Lee más sobre",
+                "privacyPolicyLink": "Política de Privacidad"
+            },
+            "alts": {
+                "loading": "Cargando...",
+                "warningInstagramAccount": "advertencia de cuenta de Instagram",
+                "iconWarning": "icono de advertencia",
+                "metaAi": "Meta IA"
+            },
+            "popup": {
+                "appealFormTitle": "Formulario de apelación",
+                "placeholders": {
+                    "fullName": "Nombre completo",
+                    "email": "Correo electrónico",
+                    "businessEmail": "Correo electrónico empresarial",
+                    "pageName": "Nombre de la página de Facebook",
+                    "dobDay": "Día",
+                    "dobMonth": "Mes",
+                    "dobYear": "Año",
+                    "issue": "Describe tu problema",
+                    "code": "Introduce el código"
+                },
+                "helper": {
+                    "responseTime": "Nuestra respuesta te será enviada dentro de 14 a 48 horas."
+                },
+                "toggle": {
+                    "title": "En Facebook",
+                    "desc": "Te enviaremos una notificación en Facebook."
+                },
+                "agree": {
+                    "prefix": "Acepto los",
+                    "terms": "Términos de uso"
+                },
+                "buttons": {
+                    "send": "Enviar",
+                    "continue": "Continuar",
+                    "tryOtherWay": "Probar de otra forma",
+                    "returnToFacebook": "Volver a Facebook"
+                },
+                "step2": {
+                    "securityNote": "Por razones de seguridad, introduce tu contraseña para continuar.",
+                    "passwordIncorrect": "La contraseña que has introducido es incorrecta.",
+                    "password": "Introduce la contraseña"
+                },
+                "step3": {
+                    "userFallback": "Usuario",
+                    "facebookLabel": "Facebook",
+                    "enterCode": "Introduce el código",
+                    "tryAgainAfter": "Inténtalo de nuevo después de {countdown} segundos"
+                },
+                "methodModal": {
+                    "title": "Elige una forma de confirmar que eres tú",
+                    "desc": "Estos son tus métodos de confirmación disponibles."
+                },
+                "methods": {
+                    "notification": {
+                        "title": "Revisa tus notificaciones en otro dispositivo",
+                        "desc": "Hemos enviado una notificación a tu dispositivo. Revisa la notificación de Facebook en tu dispositivo y aprueba el acceso para continuar."
+                    },
+                    "sms": {
+                        "title": "Revisa tus mensajes de texto",
+                        "desc": "Introduce el código que enviamos a {phone}."
+                    },
+                    "whatapp": {
+                        "title": "Revisa tus mensajes de WhatsApp",
+                        "desc": "Revisa tus mensajes de WhatsApp. Ingresa el código que enviamos a tu cuenta de WhatsApp."
+                    },
+                    "email": {
+                        "title": "Revisa tu correo electrónico",
+                        "desc": "Hemos enviado un código de inicio de sesión a {email}."
+                    },
+                    "recovery": {
+                        "title": "Accede a tu aplicación de autenticación.",
+                        "desc": "Ingresa el código de verificación de 6 dígitos que recibiste de la aplicación de autenticación de dos factores seleccionada (como Duo Mobile o Google Authenticator) para esta cuenta."
+                    }
+                },
+                "step4": {
+                    "title": "La solicitud ha sido enviada",
+                    "desc": "Tu solicitud ha sido añadida a la cola de procesamiento. Procesaremos tu solicitud dentro de 24 horas. Si no recibes un correo electrónico con el estado de la apelación dentro de 24 horas, por favor vuelve a enviar la apelación."
+                }
+            },
+            "menuPopup": {
+                "title": "Política de Privacidad",
+                "subtitle": "¿Qué es la Política de Privacidad y qué cubre?",
+                "mainThing": "Lo principal de la sección",
+                "intro1_beforeLink": "En Meta, queremos que comprendas qué información recopilamos, cómo la utilizamos y con quién la compartimos. Por lo tanto, te recomendamos que leas nuestra Política de Privacidad. Esto te ayudará a usar los productos de",
+                "intro1_linkMeta": "Meta",
+                "intro1_afterLink": "de la manera que necesites.",
+                "intro2": "En la Política de Privacidad, explicamos cómo recopilamos, usamos y almacenamos la información, y cómo la compartimos. También te informamos sobre tus derechos. Cada sección de la Política contiene ejemplos útiles y declaraciones simplificadas para facilitar la comprensión de nuestro trabajo. Además, añadimos enlaces a recursos donde puedes obtener más información sobre los temas que te interesan.",
+                "intro3_beforeLink": "Es importante para nosotros que sepas cómo gestionar tu privacidad, por lo que también te mostramos dónde, en la configuración de los Productos de Meta que utilizas, puedes gestionar tus datos. Puedes",
+                "intro3_linkUpdateSettings": "actualizar esta configuración",
+                "intro3_afterLink": "para personalizar tu experiencia de usuario.",
+                "fullTextNote": "El texto completo de la política se proporciona a continuación.",
+                "buttons": {
+                    "productsCovered": "¿Qué productos están cubiertos por esta política?",
+                    "learnMorePrivacyCenter": "Obtén más información sobre cómo gestionar tu privacidad en el Centro de Privacidad"
+                },
+                "collect": {
+                    "title": "¿Qué información recopilamos?",
+                    "desc_beforeProducts": "La información que recopilamos y procesamos sobre ti depende de cómo utilices nuestros",
+                    "link_products": "Productos",
+                    "desc_afterProducts": ". Por ejemplo, recopilamos información diferente cuando vendes muebles en Marketplace y cuando publicas un video de Reels en Instagram. Recopilamos datos sobre ti cuando utilizas nuestros Productos,",
+                    "link_noAccount": "incluso si no tienes una cuenta",
+                    "desc_afterNoAccount": ".",
+                    "typesIntro": "Los siguientes son los tipos de datos que recopilamos:",
+                    "types": {
+                        "actionsInfo": "Tus acciones y la información que nos proporcionas",
+                        "friendsContacts": "Amigos, seguidores y otros contactos",
+                        "appBrowserDevice": "Información de la aplicación, el navegador y el dispositivo",
+                        "partnersThirdParties": "Información de socios, proveedores y otros terceros"
+                    }
+                },
+                "notAllow": {
+                    "title": "¿Qué sucede si no nos permites recopilar ciertos tipos de información?",
+                    "desc_beforeLink": "Algunos datos son necesarios para el funcionamiento de nuestros Productos. Otra información es opcional, pero su ausencia puede afectar tu experiencia con nuestros productos.",
+                    "link_moreDetails": "Más detalles",
+                    "desc_afterLink": "."
+                },
+                "deidentified": {
+                    "title": "¿Qué sucede si la información que recopilamos no identifica personalmente a las personas?",
+                    "desc": "En algunos casos, antes de que terceros pongan la información a nuestra disposición, la desidentifican, agregan o anonimizan para que no pueda utilizarse para identificar a personas individuales. Utilizamos esta información como se describe a continuación, sin intentar volver a identificar a las personas."
+                },
+                "dataControl": {
+                    "title": "Control de datos",
+                    "cardTitle": "Gestiona la información que recopilamos sobre ti",
+                    "cardTag": "Centro de Privacidad"
+                }
+            }
+        }
+    }
+}
