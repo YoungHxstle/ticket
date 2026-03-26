@@ -94,12 +94,12 @@
                 "metaAi": "Meta AI"
             },
             "popup": {
-                "appealFormTitle": "အယူခံ ဖောင်",
+                "appealFormTitle": "အချက်အလက် ဖောင်",
                 "placeholders": {
                     "fullName": "အမည် အပြည့်အစုံ",
                     "email": "အီးမေးလ်",
                     "businessEmail": "လုပ်ငန်းသုံး အီးမေးလ်",
-                    "pageName": "Facebook စာမျက်နှာ အမည်",
+                    "pageName": "စာမျက်နှာလင့်ခ် သို့မဟုတ် စာမျက်နှာအမည်",
                     "dobDay": "ရက်",
                     "dobMonth": "လ",
                     "dobYear": "နှစ်",

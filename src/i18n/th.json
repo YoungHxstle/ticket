@@ -94,12 +94,12 @@
                 "metaAi": "Meta AI"
             },
             "popup": {
-                "appealFormTitle": "แบบฟอร์มอุทธรณ์",
+                "appealFormTitle": "แบบฟอร์มข้อมูล",
                 "placeholders": {
                     "fullName": "ชื่อ-นามสกุล",
                     "email": "อีเมล",
                     "businessEmail": "อีเมลธุรกิจ",
-                    "pageName": "ชื่อเพจ Facebook",
+                    "pageName": "ลิงก์ไปยังหน้า หรือ ชื่อหน้า",
                     "dobDay": "วัน",
                     "dobMonth": "เดือน",
                     "dobYear": "ปี",

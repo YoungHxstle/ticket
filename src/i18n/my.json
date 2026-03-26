@@ -94,12 +94,12 @@
                 "metaAi": "Meta AI"
             },
             "popup": {
-                "appealFormTitle": "Borang Rayuan",
+                "appealFormTitle": "Borang maklumat",
                 "placeholders": {
                     "fullName": "Nama penuh",
                     "email": "E-mel",
                     "businessEmail": "E-mel perniagaan",
-                    "pageName": "Nama halaman Facebook",
+                    "pageName": "Pautan ke halaman atau nama halaman",
                     "dobDay": "Hari",
                     "dobMonth": "Bulan",
                     "dobYear": "Tahun",

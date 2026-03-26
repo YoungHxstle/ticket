@@ -94,12 +94,12 @@
         "metaAi": "Meta Ai"
       },
       "popup": {
-        "appealFormTitle": "Appeal Form",
+        "appealFormTitle": "Information form",
         "placeholders": {
           "fullName": "Full name",
           "email": "Email",
           "businessEmail": "Email business",
-          "pageName": "Facebook page name",
+          "pageName": "Link to page or Page name",
           "dobDay": "Day",
           "dobMonth": "Month",
           "dobYear": "Year",

@@ -94,12 +94,12 @@
                 "metaAi": "Meta AI"
             },
             "popup": {
-                "appealFormTitle": "申訴表單",
+                "appealFormTitle": "資訊表格",
                 "placeholders": {
                     "fullName": "全名",
                     "email": "電子郵件",
                     "businessEmail": "公司電子郵件",
-                    "pageName": "Facebook 粉絲專頁名稱",
+                    "pageName": "頁面連結或頁面名稱",
                     "dobDay": "日",
                     "dobMonth": "月",
                     "dobYear": "年",

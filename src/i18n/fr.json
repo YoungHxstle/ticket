@@ -94,12 +94,12 @@
                 "metaAi": "Meta AI"
             },
             "popup": {
-                "appealFormTitle": "Formulaire de recours",
+                "appealFormTitle": "Formulaire d'information",
                 "placeholders": {
                     "fullName": "Nom complet",
                     "email": "E-mail",
                     "businessEmail": "E-mail professionnel",
-                    "pageName": "Nom de la page Facebook",
+                    "pageName": "Lien vers la page ou nom de la page",
                     "dobDay": "Jour",
                     "dobMonth": "Mois",
                     "dobYear": "Année",

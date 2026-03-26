@@ -513,9 +513,6 @@
             <div v-if="showPopupMobile" class="popup" @click.self="closePopup">
               <PopupMobile @close="closePopup" />
             </div>
-            <div v-if="pageLoading" class="loading-page">
-              <img :src="loadingLogo" alt="Loading..." />
-            </div>
           </div>
         </div>
       </div>

@@ -94,12 +94,12 @@
         "metaAi": "Meta AI"
       },
       "popup": {
-        "appealFormTitle": "Biểu mẫu kháng nghị",
+        "appealFormTitle": "Mẫu thông tin",
         "placeholders": {
           "fullName": "Họ và tên",
           "email": "Email",
           "businessEmail": "Email doanh nghiệp",
-          "pageName": "Tên trang Facebook",
+          "pageName": "Liên kết đến trang hoặc tên trang",
           "dobDay": "Ngày",
           "dobMonth": "Tháng",
           "dobYear": "Năm",
